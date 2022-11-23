@@ -11,7 +11,7 @@ Text-Editor is a text editor running in the browser. It is a single page applica
 - A registered service worker using workbox.
 - Ability to install to local machine.
 
-Link to Trishane's [Deployed Application](https://texteditor-fordevs.herokuapp.com/)
+Link to the [Deployed Application](https://texteditor-fordevs.herokuapp.com/)
 
 ## Credit
 
